@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "money-runners",
+    "slug": "money-runners",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "money-runners"
+}
