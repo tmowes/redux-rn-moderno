@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "money-runners",
-    "slug": "money-runners",
+    "name": "atomic-design-rn",
+    "slug": "atomic-design-rn",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
     ]
   },
-  "name": "money-runners"
+  "name": "atomic-design-rn"
 }

@@ -2,6 +2,10 @@ declare module '*.png'
 declare module '*.jpg'
 
 declare module '*.svg' {
-  const content: unknown
+  import { FC } from 'react'
+
+  import { SvgProps } from 'react-native-svg'
+
+  const content: FC<SvgProps>
   export default content
 }

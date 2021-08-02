@@ -12,6 +12,7 @@ export const AppRoutes = () => (
   <>
     <StatusBar barStyle="light-content" backgroundColor="transparent" translucent />
     <Navigator headerMode="none">
+      <Screen name="Feed" component={P.Feed} />
       <Screen name="Redux" component={P.Redux} />
       <Screen name="Onboarding" component={P.Onboarding} />
       <Screen name="Home" component={P.Home} />
